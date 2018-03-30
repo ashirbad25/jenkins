@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 06A6-C007
+
+ Directory of C:\Projects\JenkinsTraining\03302018\workspace\jenkins
+
+03/30/2018  11:11 AM    <DIR>          .
+03/30/2018  11:11 AM    <DIR>          ..
+03/30/2018  11:11 AM                 0 aashirwad.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  174,814,109,696 bytes free
